@@ -1,7 +1,7 @@
 # Multilingual Startup Funding Intelligence System (RAG)
 
 Team Name: ANMYQUE  
-Team Members: Ananya Peri, Myagi Ranganadh Peri
+Team Members: Ananya Peri, Myagi Ranganadh Patima
 
 ---
 
@@ -90,9 +90,9 @@ The system follows a layered architecture:
 
 ---
 
-## Team anmyque
+## Team ANMYQUE
 
-This project is developed by Anz and Myagi as part of a hackathon submission. The team focuses on building inclusive, trustworthy, and practical AI solutions for real-world problems.
+This project is developed by Ananya and Myagi as part of a hackathon submission. The team focuses on building inclusive, trustworthy, and practical AI solutions for real-world problems.
 
 ---
 
