@@ -68,7 +68,7 @@ The system follows a layered architecture:
 - Frontend: Web-based chat interface
 - Databases: Vector database and metadata store
 - AI Stack: Embedding models, large language models, translation models
-- Deployment: Cloud-based infrastructure (CPU, GPU optional)
+- Deployment: Cloud-based infrastructure
 
 ---
 
@@ -92,7 +92,7 @@ The system follows a layered architecture:
 
 ## Team ANMYQUE
 
-This project is developed by Ananya and Myagi as part of a hackathon submission. The team focuses on building inclusive, trustworthy, and practical AI solutions for real-world problems.
+This project is being developed by Ananya and Myagi as part of a hackathon submission. The team focuses on building inclusive, trustworthy, and practical AI solutions for real-world problems.
 
 ---
 
